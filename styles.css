@@ -1,0 +1,108 @@
+body {
+    background: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=3543&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    font-family: "Reddit Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0%), rgba(0, 0, 0, 100%), rgba(255, 255, 255, 0%));
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    margin: 0 auto;
+    width: 600px;
+    border-radius: 75px;
+}
+
+h2 {
+    background-image: linear-gradient(to right, rgba(148, 0, 211, 0%), rgba(148, 0, 211, 65%), rgba(148, 0, 211, 0%));
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 250px;
+    border-radius: 75px;
+}
+
+h3 {
+    background-image: linear-gradient(to right, rgba(148, 0, 211, 0%), rgba(148, 0, 211, 65%), rgba(148, 0, 211, 0%));
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 250px;
+}
+
+table {
+    margin: 25px auto;
+}
+
+th {
+    height: 45px;
+    width: 150px;
+    color: white;
+    background-color: rgba(112, 128, 144, 0.935);
+    border: solid 1px black;
+    padding: 10px;
+}
+
+td {
+    background-color: rgba(255, 255, 255, 0.935);
+    text-align: center;
+    border: solid 1px black;
+    padding: 10px;  
+}
+
+p {
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 250px;
+}
+
+.function {
+    width: 500px;
+}
+
+.footer {
+    background-color:rgba(124, 124, 124, 75%);
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
+    width: 300px;
+    border-radius: 25px;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+.footer li {
+    font-size: 25px;
+    width: 1em auto;
+    padding: 5px;
+    text-align: left;
+}
+
+.footer p {
+    width: 85%;
+    text-align: center;
+}
+
+#tag {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    background-color: rgba(169, 169, 169, 0.5);
+}
